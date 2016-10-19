@@ -1,0 +1,23 @@
+#appointment {
+  display: none;
+}
+
+.name {
+  font-size: 20px;
+}
+
+.appointment-body {
+    text-indent: 20px;
+}
+
+.appointment-hidden {
+  margin-top: 100px;
+}
+
+.p1 {
+  padding-top: 50px;
+}
+
+h1 {
+  font-family: sans-serif;
+}
